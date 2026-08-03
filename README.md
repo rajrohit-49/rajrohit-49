@@ -325,3 +325,19 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+## 💡 Quote
+
+> **"Learning never stops. Every project is an opportunity to solve real-world problems, improve my skills, and create meaningful impact through technology."**
+
+---
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my projects interesting, feel free to ⭐ star the repositories or connect with me on LinkedIn.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
+
+</div>
