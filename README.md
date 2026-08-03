@@ -1,109 +1,64 @@
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 B.Tech CSE Student | AI & Data Science Enthusiast | Machine Learning Learner | Open Source Contributor
-</h3>
+# 👋 Hi, I'm Rohit Kumar
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Learner;Machine+Learning+Enthusiast;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
-</p>
+### 💻 Computer Science Engineer | 🤖 AI & Machine Learning Enthusiast | 📊 Data Science Learner
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+AI-Powered+Applications;Machine+Learning+%7C+Data+Science;Open+Source+Contributor;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=rajrohit-49&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/github/followers/rajrohit-49?label=Followers&style=for-the-badge"/>
+<a href="https://github.com/rajrohit-49">
+<img src="https://komarev.com/ghpvc/?username=rajrohit-49&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/rajrohit-49?affiliations=OWNER&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/rajrohit-49?style=for-the-badge&logo=github"/>
 
-</p>
+<img src="https://img.shields.io/github/stars/rajrohit-49?style=for-the-badge"/>
+
+</div>
 
 ---
+# 👨‍💻 About Me
 
-# 💫 About Me
+I'm **Rohit Kumar**, a **B.Tech Computer Science & Engineering student** passionate about **Artificial Intelligence, Machine Learning, Data Science, and Software Development**.
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+I enjoy transforming ideas into practical applications by building intelligent systems, predictive models, and user-friendly software. My projects span **Machine Learning, Time-Series Forecasting, Deep Learning, Flask & Streamlit applications, and collaborative AI development**.
 
-🎓 **B.Tech in Computer Science & Engineering**
+### 🔍 Current Focus
 
-📊 AI & Data Science Intern (CDAC)
+- 🤖 Machine Learning & Deep Learning
+- 📊 Time-Series Forecasting
+- 🧠 Large Language Models (LLMs)
+- 📄 Retrieval-Augmented Generation (RAG)
+- 🌐 Full-Stack Development with MERN
 
-🤖 Passionate about Machine Learning & Deep Learning
+### 🎯 Career Vision
 
-📈 Building Forecasting Models & Intelligent Applications
-
-💻 Interested in AI, Data Science, Web Development and Open Source
-
-🌱 Currently Learning
-
-- Deep Learning
-- Generative AI
-- LangChain
-- LLM Applications
-- MERN Stack
-
-🎯 2026 Goals
-
-- Contribute to Open Source
-- Build Production AI Projects
-- Secure an AI/ML Internship
-- Improve DSA & System Design
-
-⚡ Fun Fact
-
-> I love transforming data into intelligent solutions.
+To become an AI Engineer capable of developing intelligent, scalable, and impactful software solutions while continuously learning emerging technologies.
 
 ---
+# 🛠 Tech Stack
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rohitk-cse/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rohit845429@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/the_rohit_kush">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/share/1BdFU6mr9t/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>
 </p>
 
-## 🌐 Web Development
+### 🌐 Web Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask"/>
 </p>
 
-## 🤖 AI • Machine Learning
+### 🤖 AI & Machine Learning
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 
@@ -111,33 +66,24 @@
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
 </p>
 
-## 🗄️ Database
+### 🗄️ Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
 </p>
 
-## 🛠️ Tools
+### 🛠 Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva"/>
-
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom"/>
-
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
-
-# 🚀 Featured Projects
-
-
 
 # 🚀 Featured Projects
 
