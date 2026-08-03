@@ -8,6 +8,57 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌍 Air Quality Forecasting
+
+A comprehensive time series forecasting project for predicting **PM2.5 air pollution** using Statistical, Deep Learning, and Hybrid models.
+
+**Tech:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
+
+### Highlights
+
+- 📊 Compared AR, MA, ARMA, ARIMA & SARIMA
+- 🤖 Built RNN, LSTM, BiLSTM, GRU, BiGRU & CNN models
+- 🚀 Developed Hybrid Models (CNN-LSTM, LSTM-GRU, RNN-BiGRU)
+- 📈 Evaluated using MAE, MSE, RMSE, MAPE & R² Score
+- 📉 Visualized predictions and performance comparison
+
+**🔗 Repository:**  
+https://github.com/yourusername/air-quality-forecasting
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🩺 Breast Cancer Prediction
+
+Machine Learning web application for predicting breast cancer diagnosis using medical diagnostic features.
+
+**Tech:** Python, Flask, Scikit-learn, HTML, CSS, Bootstrap
+
+### Highlights
+
+- 🩺 Predicts Benign or Malignant tumors
+- 🤖 Compared multiple ML algorithms
+- 📊 Logistic Regression selected as the best model
+- 🌐 Responsive Flask web application
+- ⚡ Instant prediction with a clean UI
+
+**🔗 Repository:**  
+https://github.com/yourusername/breast-cancer-prediction
+
+</td>
+
+</tr>
+</table>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rajrohit-49&theme=react&hide_border=false)<br/>
