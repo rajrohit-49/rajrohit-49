@@ -82,7 +82,39 @@ Team-based music streaming platform with authentication, playlist, and playback 
 </table>
 
 ---
+## 📄 AskDocs AI
 
+**AskDocs AI** is an AI-powered document assistant that allows users to upload PDF files, ask questions about the document, generate concise summaries, and create multiple-choice quizzes using Large Language Models.
+
+### 🚀 Features
+- 📂 Upload and analyze PDF documents
+- 💬 AI-powered question answering
+- 📝 Automatic document summarization
+- 🎯 AI-generated MCQ quiz creation
+- 🔍 Semantic search using FAISS
+- 🤖 Local Llama 3 integration with Ollama
+- ⚡ Fast retrieval using Hugging Face embeddings
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Llama 3](https://img.shields.io/badge/Llama%203-4A90E2?style=for-the-badge)
+
+### 👨‍💻 My Contribution
+- Contributed to the development and improvement of the AskDocs AI application.
+- Worked on application features, UI enhancements, testing, and project integration.
+- Collaborated using GitHub and participated in project development.
+
+### 🔗 Repository
+[📂 View Project](https://github.com/YOUR-USERNAME/AskDocs-AI)
+
+---
+
+⭐ **Technologies:** Python • Streamlit • LangChain • FAISS • Ollama • Llama 3 • Hugging Face
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
