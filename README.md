@@ -211,42 +211,87 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 </table>
 
 ---
-# 📊 GitHub Analytics
+# 📜 Certifications & Training
 
-<div align="center">
+<table>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajrohit-49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<tr>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrohit-49&layout=compact&theme=tokyonight&hide_border=true"/>
+<td width="50%" valign="top">
 
-</div>
+### 🤖 AI & Data Science using Python
 
-<div align="center">
+**Centre for Development of Advanced Computing (C-DAC), Patna**
 
-<img src="https://streak-stats.demolab.com?user=rajrohit-49&theme=tokyonight&hide_border=true"/>
+- Python Programming
+- Data Analysis & Visualization
+- Machine Learning Fundamentals
+- Model Development & Evaluation
+- Data Preprocessing
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Development using MERN
+
+**Centre for Development of Advanced Computing (C-DAC), Patna**
+
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- REST APIs
+- Full-Stack Web Development
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+# 🏅 Leadership & Campus Involvement
+
+| Position | Organization |
+|-----------|--------------|
+| 🤝 Joint Secretary | Rotaract Club |
+| 🎭 Senior Coordinator | University Cultural Fest |
+| 🏏 Captain | CS & IT Cricket Team |
+| 👨‍🎓 Class Representative (CR) | Department |
+| 🤝 Member | Internal Complaint Committee |
 
 ---
 
-## 📈 Contribution Graph
+### 💼 Professional Strengths
 
-<div align="center">
+✔ Leadership
 
-[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajrohit-49&theme=tokyo-night&hide_border=true)](https://github.com/rajrohit-49)
+✔ Team Collaboration
 
-</div>
+✔ Problem Solving
+
+✔ Communication
+
+✔ Event Management
+
+✔ Time Management
+
+✔ Adaptability
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajrohit-49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
-
-</div>
-
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -258,5 +303,25 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 
 ---
 [![](https://komarev.com/ghpvc/?username=rajrohit-49&icon=0&color=1)](https://visitcount.itsvg.in)
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohitk-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohit845429@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajrohit-49">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
