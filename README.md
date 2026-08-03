@@ -63,6 +63,27 @@ Machine Learning web application for predicting breast cancer diagnosis using me
 </tr>
 </table>
 
+### 🎵 EchoBeats - Music Streaming Platform
+
+Team-based music streaming platform with authentication, playlist, and playback features.
+
+**Role:** Team Contributor
+
+- Frontend support
+- Testing and debugging
+- Documentation and presentation support
+
+<a href="https://github.com/aaryanraj3/EchoBeats">
+  <img src="https://img.shields.io/badge/View%20Repository-FF8906?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rajrohit-49&theme=react&hide_border=false)<br/>
