@@ -63,6 +63,11 @@ Machine Learning web application for predicting breast cancer diagnosis using me
 </tr>
 </table>
 
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
 ### 🎵 EchoBeats - Music Streaming Platform
 
 Team-based music streaming platform with authentication, playlist, and playback features.
@@ -80,6 +85,9 @@ Team-based music streaming platform with authentication, playlist, and playback 
 </td>
 </tr>
 </table>
+</td>
+
+<td width="45%" valign="top">
 
 ---
 ## 📄 AskDocs AI
