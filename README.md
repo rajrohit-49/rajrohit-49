@@ -200,7 +200,7 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 - 🧪 Testing & Debugging
 - 🤝 GitHub Collaboration
 
-<a href="https://github.com/YOUR-USERNAME/AskDocs-AI">
+<a href="https://github.com/x0ankit/AskDocs">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -292,6 +292,15 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 ✔ Adaptability
 
 ---
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajrohit-49&theme=tokyo-night&hide_border=true)]
+
+</p>
+
+---
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -328,11 +337,6 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 
 <div align="center">
 
-## 💡 Quote
-
-> **"Learning never stops. Every project is an opportunity to solve real-world problems, improve my skills, and create meaningful impact through technology."**
-
----
 
 ### ⭐ Thanks for visiting my profile!
 
