@@ -1,13 +1,142 @@
-## Hi 👋, I'm ROHIT KUMAR
-# 💫 About Me:
-📚 B.Tech CSE Student & Tech Explorer<br>📊 AI & Data Science Learner (CDAC Internship)<br>📊 Working on Forecasting Models<br>🧠 Exploring Machine Learning & Data Science<br>🌱 Continuously Learning New Technologies <br><br><br>
+<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 
+<h3 align="center">
+🚀 B.Tech CSE Student | AI & Data Science Enthusiast | Machine Learning Learner | Open Source Contributor
+</h3>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BdFU6mr9t/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_rohit_kush?igsh=MWN4d2RlZ21wOWZkaA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitk-cse/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohit845429@gmail.com) 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Learner;Machine+Learning+Enthusiast;Python+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rajrohit-49&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/rajrohit-49?label=Followers&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/rajrohit-49?affiliations=OWNER&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+🎓 **B.Tech in Computer Science & Engineering**
+
+📊 AI & Data Science Intern (CDAC)
+
+🤖 Passionate about Machine Learning & Deep Learning
+
+📈 Building Forecasting Models & Intelligent Applications
+
+💻 Interested in AI, Data Science, Web Development and Open Source
+
+🌱 Currently Learning
+
+- Deep Learning
+- Generative AI
+- LangChain
+- LLM Applications
+- MERN Stack
+
+🎯 2026 Goals
+
+- Contribute to Open Source
+- Build Production AI Projects
+- Secure an AI/ML Internship
+- Improve DSA & System Design
+
+⚡ Fun Fact
+
+> I love transforming data into intelligent solutions.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohitk-cse/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohit845429@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/the_rohit_kush">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1BdFU6mr9t/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
+
+</p>
+
+## 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap"/>
+
+</p>
+
+## 🤖 AI • Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</p>
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva"/>
+
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=AdobeLightroom"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
 
 
 # 🚀 Featured Projects
