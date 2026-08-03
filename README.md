@@ -11,122 +11,112 @@
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ## 🌍 Air Quality Forecasting
 
-A comprehensive time series forecasting project for predicting **PM2.5 air pollution** using Statistical, Deep Learning, and Hybrid models.
+📈 Deep Learning & Statistical Time Series Forecasting for PM2.5 Prediction.
 
-**Tech:** Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy
+### ⚙️ Tech Stack
+Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy
 
-### Highlights
-
-- 📊 Compared AR, MA, ARMA, ARIMA & SARIMA
-- 🤖 Built RNN, LSTM, BiLSTM, GRU, BiGRU & CNN models
-- 🚀 Developed Hybrid Models (CNN-LSTM, LSTM-GRU, RNN-BiGRU)
-- 📈 Evaluated using MAE, MSE, RMSE, MAPE & R² Score
-- 📉 Visualized predictions and performance comparison
+### ✨ Features
+- Statistical Models (ARIMA, SARIMA)
+- Deep Learning (LSTM, GRU, CNN)
+- Hybrid Models
+- Performance Comparison
+- Interactive Visualizations
 
 <a href="https://github.com/rajrohit-49/air-quality-forecasting">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ## 🩺 Breast Cancer Prediction
 
-Machine Learning web application for predicting breast cancer diagnosis using medical diagnostic features.
+Machine Learning web application for breast cancer diagnosis.
 
-**Tech:** Python, Flask, Scikit-learn, HTML, CSS, Bootstrap
+### ⚙️ Tech Stack
+Python • Flask • HTML • CSS • Bootstrap • Scikit-learn
 
-### Highlights
-
-- 🩺 Predicts Benign or Malignant tumors
-- 🤖 Compared multiple ML algorithms
-- 📊 Logistic Regression selected as the best model
-- 🌐 Responsive Flask web application
-- ⚡ Instant prediction with a clean UI
+### ✨ Features
+- Predict Benign/Malignant
+- Multiple ML Models
+- Responsive UI
+- Instant Prediction
+- Logistic Regression Best Model
 
 <a href="https://github.com/rajrohit-49/ML-Prediction-Web-App">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="http://127.0.0.1:5000">
-  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 </td>
 
 </tr>
-</table>
 
-<table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
-### 🎵 EchoBeats - Music Streaming Platform
+## 🎵 EchoBeats
 
-Team-based music streaming platform with authentication, playlist, and playback features.
+Music Streaming Platform inspired by Spotify.
 
-**Role:** Team Contributor
+### ⚙️ Tech Stack
+React • Node.js • Express • MongoDB
 
-- Frontend support
-- Testing and debugging
-- Documentation and presentation support
+### 👨‍💻 My Contribution
+- Frontend Development
+- Testing & Debugging
+- Documentation
+- UI Improvements
 
 <a href="https://github.com/aaryanraj3/EchoBeats">
-  <img src="https://img.shields.io/badge/View%20Repository-FF8906?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
-</tr>
-</table>
-</td>
 
-<td width="45%" valign="top">
-
----
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ## 📄 AskDocs AI
 
-**AskDocs AI** is an AI-powered document assistant that allows users to upload PDF files, ask questions about the document, generate concise summaries, and create multiple-choice quizzes using Large Language Models.
+AI-powered document assistant using Large Language Models.
 
-### 🚀 Features
-- 📂 Upload and analyze PDF documents
-- 💬 AI-powered question answering
-- 📝 Automatic document summarization
-- 🎯 AI-generated MCQ quiz creation
-- 🔍 Semantic search using FAISS
-- 🤖 Local Llama 3 integration with Ollama
-- ⚡ Fast retrieval using Hugging Face embeddings
+### ⚙️ Tech Stack
+Python • Streamlit • LangChain • FAISS • Ollama • Llama 3
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Llama 3](https://img.shields.io/badge/Llama%203-4A90E2?style=for-the-badge)
+### ✨ Features
+- 📂 Upload PDF
+- 💬 Ask Questions
+- 📝 Generate Summary
+- 🎯 MCQ Generator
+- 🔍 Semantic Search
+- 🤖 Llama 3 Integration
 
 ### 👨‍💻 My Contribution
-- Contributed to the development and improvement of the AskDocs AI application.
-- Worked on application features, UI enhancements, testing, and project integration.
-- Collaborated using GitHub and participated in project development.
+- Streamlit Interface
+- Feature Integration
+- Testing & Debugging
+- Documentation
+- GitHub Collaboration
 
-### 🔗 Repository
-[📂 View Project](https://github.com/YOUR-USERNAME/AskDocs-AI)
+<a href="https://github.com/YOUR-USERNAME/AskDocs-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
+</td>
 
-⭐ **Technologies:** Python • Streamlit • LangChain • FAISS • Ollama • Llama 3 • Hugging Face
-
-<td width="45%" valign="top">
+</tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
