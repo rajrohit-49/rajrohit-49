@@ -51,9 +51,13 @@ Machine Learning web application for predicting breast cancer diagnosis using me
 - 🌐 Responsive Flask web application
 - ⚡ Instant prediction with a clean UI
 
-**🔗 Repository:**  
-https://github.com/yourusername/breast-cancer-prediction
+<a href="https://github.com/yourusername/air-quality-forecasting">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<a href="https://your-demo-link.com">
+  <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </td>
 
 </tr>
