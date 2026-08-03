@@ -211,6 +211,43 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 </table>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rajrohit-49&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrohit-49&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rajrohit-49&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajrohit-49&theme=tokyo-night&hide_border=true)](https://github.com/rajrohit-49)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajrohit-49&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rajrohit-49&theme=react&hide_border=false)<br/>
