@@ -90,6 +90,8 @@ Team-based music streaming platform with authentication, playlist, and playback 
 <td width="45%" valign="top">
 
 ---
+<td width="45%" valign="top">
+
 ## 📄 AskDocs AI
 
 **AskDocs AI** is an AI-powered document assistant that allows users to upload PDF files, ask questions about the document, generate concise summaries, and create multiple-choice quizzes using Large Language Models.
