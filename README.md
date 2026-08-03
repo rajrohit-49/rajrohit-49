@@ -88,26 +88,33 @@ To become an AI Engineer capable of developing intelligent, scalable, and impact
 # 🚀 Featured Projects
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
 ## 🌍 Air Quality Forecasting
 
-📈 Deep Learning & Statistical Time Series Forecasting for PM2.5 Prediction.
+**Hybrid Time-Series Forecasting using Statistical, Deep Learning & Hybrid Models**
 
-### ⚙️ Tech Stack
-Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy
+📌 **Overview**
 
-### ✨ Features
-- Statistical Models (ARIMA, SARIMA)
-- Deep Learning (LSTM, GRU, CNN)
-- Hybrid Models
-- Performance Comparison
-- Interactive Visualizations
+Developed a comprehensive forecasting system to predict **PM2.5 air pollution levels** by comparing traditional statistical models with advanced deep learning architectures and hybrid approaches.
+
+### 🛠 Tech Stack
+
+`Python` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy`
+
+### ✨ Key Highlights
+
+- 📈 Compared AR, MA, ARMA, ARIMA & SARIMA models
+- 🤖 Implemented RNN, LSTM, GRU, BiLSTM, CNN & BiGRU
+- 🚀 Built Hybrid Models (CNN-LSTM, LSTM-GRU, RNN-BiGRU)
+- 📊 Evaluated using RMSE, MAE, MAPE & R² Score
+- 📉 Visualized forecasting performance
 
 <a href="https://github.com/rajrohit-49/air-quality-forecasting">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -116,20 +123,26 @@ Python • TensorFlow • Keras • Scikit-learn • Pandas • NumPy
 
 ## 🩺 Breast Cancer Prediction
 
-Machine Learning web application for breast cancer diagnosis.
+**Machine Learning Web Application for Early Breast Cancer Diagnosis**
 
-### ⚙️ Tech Stack
-Python • Flask • HTML • CSS • Bootstrap • Scikit-learn
+📌 **Overview**
 
-### ✨ Features
-- Predict Benign/Malignant
-- Multiple ML Models
-- Responsive UI
-- Instant Prediction
-- Logistic Regression Best Model
+Developed a machine learning application that predicts whether a tumor is **Benign** or **Malignant** using diagnostic medical features.
+
+### 🛠 Tech Stack
+
+`Python` `Flask` `Scikit-learn` `HTML` `CSS` `Bootstrap`
+
+### ✨ Key Highlights
+
+- 🩺 Compared multiple Machine Learning models
+- 🧠 Logistic Regression selected as the best-performing model
+- 🌐 Responsive Flask web application
+- ⚡ Instant prediction interface
+- 📊 Performance evaluation using classification metrics
 
 <a href="https://github.com/rajrohit-49/ML-Prediction-Web-App">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -142,19 +155,25 @@ Python • Flask • HTML • CSS • Bootstrap • Scikit-learn
 
 ## 🎵 EchoBeats
 
-Music Streaming Platform inspired by Spotify.
+**Full-Stack Music Streaming Platform**
 
-### ⚙️ Tech Stack
-React • Node.js • Express • MongoDB
+📌 **Overview**
 
-### 👨‍💻 My Contribution
-- Frontend Development
-- Testing & Debugging
-- Documentation
-- UI Improvements
+Collaborative project inspired by Spotify, featuring user authentication, playlist management, and music playback.
+
+### 🛠 Tech Stack
+
+`React` `Node.js` `Express` `MongoDB`
+
+### 👨‍💻 My Contributions
+
+- 🎨 Frontend Development
+- 🐞 Testing & Debugging
+- 📄 Documentation
+- 🤝 Team Collaboration
 
 <a href="https://github.com/aaryanraj3/EchoBeats">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -163,35 +182,35 @@ React • Node.js • Express • MongoDB
 
 ## 📄 AskDocs AI
 
-AI-powered document assistant using Large Language Models.
+**AI-Powered PDF Question Answering & Summarization System**
 
-### ⚙️ Tech Stack
-Python • Streamlit • LangChain • FAISS • Ollama • Llama 3
+📌 **Overview**
 
-### ✨ Features
-- 📂 Upload PDF
-- 💬 Ask Questions
-- 📝 Generate Summary
-- 🎯 MCQ Generator
-- 🔍 Semantic Search
-- 🤖 Llama 3 Integration
+Built an intelligent document assistant that enables users to upload PDFs, ask questions, generate summaries, and create quizzes using Large Language Models and Retrieval-Augmented Generation (RAG).
 
-### 👨‍💻 My Contribution
-- Streamlit Interface
-- Feature Integration
-- Testing & Debugging
-- Documentation
-- GitHub Collaboration
+### 🛠 Tech Stack
 
-<a href="https://github.com/x0ankit/AskDocs">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github"/>
+`Python` `Streamlit` `LangChain` `FAISS` `Ollama` `Llama 3`
+
+### 👨‍💻 My Contributions
+
+- 📂 Document Processing
+- 💬 Question Answering Integration
+- 📝 Summary Generation
+- 🧪 Testing & Debugging
+- 🤝 GitHub Collaboration
+
+<a href="https://github.com/YOUR-USERNAME/AskDocs-AI">
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 </tr>
+
 </table>
 
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rajrohit-49&theme=react&hide_border=false)<br/>
