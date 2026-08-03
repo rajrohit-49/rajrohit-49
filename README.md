@@ -33,7 +33,9 @@ A comprehensive time series forecasting project for predicting **PM2.5 air pollu
 <a href="https://github.com/rajrohit-49/air-quality-forecasting">
   <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</td>
 
+<td width="50%" valign="top">
 
 ## 🩺 Breast Cancer Prediction
 
