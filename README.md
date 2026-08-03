@@ -126,6 +126,8 @@ Team-based music streaming platform with authentication, playlist, and playback 
 
 ⭐ **Technologies:** Python • Streamlit • LangChain • FAISS • Ollama • Llama 3 • Hugging Face
 
+<td width="45%" valign="top">
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rajrohit-49&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rajrohit-49&theme=react&hide_border=false)<br/>
