@@ -200,7 +200,7 @@ Built an intelligent document assistant that enables users to upload PDFs, ask q
 - 🧪 Testing & Debugging
 - 🤝 GitHub Collaboration
 
-<a href="https://github.com/x0ankit/AskDocs">
+<a href="https://github.com/rajrohit-49/AskDocs">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
